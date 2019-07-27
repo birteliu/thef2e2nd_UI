@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>icon-home-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-904.000000, -1700.000000)" stroke="#C8C8C8" stroke-width="4">
+            <g id="Group-17-Copy" transform="translate(904.000000, 1700.000000)">
+                <g id="Icon" transform="translate(7.000000, 3.000000)">
+                    <path d="M11,42 L0.876,42 C0.392,42 0,41.716 0,41.259 L0,16" id="Stroke-459"></path>
+                    <path d="M36,17 L36,41.259 C36,41.716 35.608,42 35.124,42 L24,42" id="Stroke-460"></path>
+                    <polyline id="Stroke-461" stroke-linecap="round" points="36 16.8867 18 0.0007 0 16.4297"></polyline>
+                    <polyline id="Stroke-462" points="12 44 12 29 24 29 24 44"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
